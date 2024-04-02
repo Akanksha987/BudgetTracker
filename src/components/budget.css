@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    margin-top: 5%;
+}
+.task_fields{
+
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30%;
+    padding: 25px;
+    margin-left: 25px;
+}
+.table_div{
+    border: 1px solid black;
+    margin-top: 0;
+}
